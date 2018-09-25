@@ -1,0 +1,25 @@
+{
+  "name": "rnw-server-style-mismatch",
+  "version": "0.1.0",
+  "description": "Test case for RNW server style mismatch.",
+  "main": "pages/index.js",
+  "repository": "git@github.com:HealthTeacher/rnw-server-style-mismatch.git",
+  "author": "David Calhoun <dpcalhoun@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "16.5.2",
+    "react-art": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-native-web": "0.9.0"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.4.11"
+  }
+}
